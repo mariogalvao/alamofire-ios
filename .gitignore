@@ -1,0 +1,15 @@
+## Dependencies
+Pods/
+
+## Build generated
+build/
+DerivedData/
+CodeCoverageReport/
+.DS_Store
+
+## User settings
+*.xcworkspace/xcuserdata/*
+*.xcodeproj/xcuserdata/*
+
+## Bitrise
+codesigndoc_exports/
